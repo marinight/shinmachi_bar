@@ -1,0 +1,11 @@
+{
+    "drinks": [
+        {
+            "name": "Water",
+            "desc": "A glass of water.",
+            "ingredients": [["Water", 1]],
+            "shaken": false,
+            "stirred": false
+        }
+    ]
+}

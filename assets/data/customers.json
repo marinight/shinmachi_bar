@@ -1,0 +1,15 @@
+{
+    "customers": [
+        {
+            "name": "girl1",
+            "beforeDialogue": ["Name<None>:Hello!", "Name<Happy>:Shit!", "Name<Sad>:Yay!"],
+            "afterDialogue": ["Name<None>:Thanks"],
+            "request": {
+                "drink": "Water",
+                "extras": [],
+                "shaken": false,
+                "stirred": false
+            }
+        }
+    ]
+}
